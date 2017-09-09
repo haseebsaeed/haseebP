@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\haseeb\documents\visual studio 2015\projects\dynamic\dynamic\main.cpp(31): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\haseeb\documents\visual studio 2015\projects\dynamic\dynamic\main.cpp(71): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  dynamic.vcxproj -> C:\Users\Haseeb\Documents\Visual Studio 2015\Projects\dynamic\Debug\dynamic.exe
+  dynamic.vcxproj -> C:\Users\Haseeb\Documents\Visual Studio 2015\Projects\dynamic\Debug\dynamic.pdb (Full PDB)
