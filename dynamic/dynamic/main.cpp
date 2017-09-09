@@ -14,6 +14,7 @@ int isSubsetSum(int * set, int n, int sum)
 
 	for (int i = 1; i <= sum; i++)
 		arr[i][0] = false;
+//new comment
 
 	for (int i = 1; i <= sum; i++) {
 		for (int j = 1; j <= n; j++) {
